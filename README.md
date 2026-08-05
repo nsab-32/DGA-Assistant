@@ -1,2 +1,2 @@
-# SE-5S-Chat-Bot
-Your 5S Guidance
+# DGA-Chat-Bot
+Your DGA Assitant
